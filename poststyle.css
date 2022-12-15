@@ -25,6 +25,7 @@ section{
 body{
     margin: 0;
     font-family: "Poppins", sans-serif;
+    
 }
 
 .wrapper{
@@ -190,7 +191,7 @@ header{
     font-weight: 600;
     font-size: 17px;
     position: absolute;
-    top: 470px;
+    top: 450px;
     left: 100px;
     align-items: center;
     color: #000000;
@@ -201,7 +202,7 @@ header{
     font-weight: 400;
     font-size: 16px;
     position: absolute;
-    top: 515px;
+    top: 495px;
     left: 100px;
     align-items: center;
     color: #000000;
@@ -209,13 +210,13 @@ header{
 
 .btnp2 .edit{
     position: absolute;
-    top: 590px;
+    top: 570px;
     left: 100px;
 }
 
 .btnp2 .delete{
     position: absolute;
-    top: 590px;
+    top: 570px;
     left: 200px;
 }
 
